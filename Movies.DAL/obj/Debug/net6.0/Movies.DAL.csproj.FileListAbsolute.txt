@@ -1,0 +1,14 @@
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.DAL\obj\Debug\net6.0\Movies.DAL.csproj.AssemblyReference.cache
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.DAL\obj\Debug\net6.0\Movies.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.DAL\obj\Debug\net6.0\Movies.DAL.AssemblyInfoInputs.cache
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.DAL\obj\Debug\net6.0\Movies.DAL.AssemblyInfo.cs
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.DAL\obj\Debug\net6.0\Movies.DAL.csproj.CoreCompileInputs.cache
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.DAL\bin\Debug\net6.0\Movies.DAL.deps.json
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.DAL\bin\Debug\net6.0\Movies.DAL.runtimeconfig.json
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.DAL\bin\Debug\net6.0\Movies.DAL.dll
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.DAL\bin\Debug\net6.0\Movies.DAL.pdb
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.DAL\obj\Debug\net6.0\Movies.DAL.dll
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.DAL\obj\Debug\net6.0\refint\Movies.DAL.dll
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.DAL\obj\Debug\net6.0\Movies.DAL.pdb
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.DAL\obj\Debug\net6.0\Movies.DAL.genruntimeconfig.cache
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.DAL\obj\Debug\net6.0\ref\Movies.DAL.dll

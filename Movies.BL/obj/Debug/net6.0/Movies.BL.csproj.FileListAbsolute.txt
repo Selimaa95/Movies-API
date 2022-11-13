@@ -1,0 +1,15 @@
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.BL\obj\Debug\net6.0\Movies.BL.csproj.AssemblyReference.cache
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.BL\obj\Debug\net6.0\Movies.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.BL\obj\Debug\net6.0\Movies.BL.AssemblyInfoInputs.cache
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.BL\obj\Debug\net6.0\Movies.BL.AssemblyInfo.cs
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.BL\obj\Debug\net6.0\Movies.BL.csproj.CoreCompileInputs.cache
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.BL\bin\Debug\net6.0\Movies.BL.deps.json
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.BL\bin\Debug\net6.0\Movies.BL.dll
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.BL\bin\Debug\net6.0\Movies.BL.pdb
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.BL\bin\Debug\net6.0\Movies.DAL.dll
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.BL\bin\Debug\net6.0\Movies.DAL.pdb
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.BL\obj\Debug\net6.0\Movies.BL.csproj.CopyComplete
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.BL\obj\Debug\net6.0\Movies.BL.dll
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.BL\obj\Debug\net6.0\refint\Movies.BL.dll
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.BL\obj\Debug\net6.0\Movies.BL.pdb
+E:\Sharp\BackEnd\APIs\API\MoviesAPI\MoviesAPI\Movies.BL\obj\Debug\net6.0\ref\Movies.BL.dll
